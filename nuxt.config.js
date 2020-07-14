@@ -42,6 +42,7 @@ module.exports = {
       ]
     },
     generate: {
+		dir: 'public',
       routes: [
         '/1',
         '/2'
